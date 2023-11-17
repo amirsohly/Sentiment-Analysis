@@ -1,5 +1,6 @@
 # Sentiment-Analysis
 This appears to be implementing a neural network model for sentiment analysis using the Translated-Digikala-Dataset.
+### VISIT : https://colab.research.google.com/drive/1QeL-l_f6ShyPVC0BPJyAF0u7v3DlaI6o
 ## 1
 The code begins by importing necessary libraries such as ssl, numpy, pandas, nltk, sklearn, and keras.
 ## 2
